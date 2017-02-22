@@ -1,0 +1,5 @@
+var abc;
+function test()
+{
+    
+}
